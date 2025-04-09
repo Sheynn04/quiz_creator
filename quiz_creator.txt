@@ -1,5 +1,25 @@
-Quiz Title: Quiz ng mama mo
-Quiz Item Quantity: 2
-Question 1: Anong taon mo?
-Option D: 19
+Quiz Title: Quiz #1
+
+Quiz Item Quantity: 3
+
+Question 1: What shape is the earth?
+  Option A: Round
+  Option B: Square
+  Option C: Rectangle
+  Option D: Triangle
+Answer: A
+
+Question 2: How many primary colors are there?
+  Option A: 2
+  Option B: 4
+  Option C: 6
+  Option D: 3
 Answer: D
+
+Question 3: Is there an ending to the universe
+  Option A: No
+  Option B: Yes
+  Option C: Possibly, we still haventt explored enough
+  Option D: No, theres only heaven and earth
+Answer: C
+
