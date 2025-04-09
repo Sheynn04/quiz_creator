@@ -13,6 +13,9 @@ while True:
 # 2. Create a loop that asks the user to input the questions, choices and answers to each question.
 for i in range(item_quantity):
     quiztion = input(f"Input your question {i+1}: ")
+    for options in range(4):
+        choice = input(f"Enter choice {chr(65 + options)}: ")
+
 
 
 
