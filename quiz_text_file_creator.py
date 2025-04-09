@@ -9,7 +9,11 @@ while True:
     except ValueError:
         print("Please input a proper value!")
         continue
-# 2. Create a loop that asks the user to input the questions, choices and answers to each question. 
+
+# 2. Create a loop that asks the user to input the questions, choices and answers to each question.
+for i in range(item_quantity):
+    quiztion = input(f"Input your question {i+1}: ")
+
 
 
 # 3. Compile the inputs into one text file. 
