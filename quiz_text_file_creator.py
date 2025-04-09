@@ -15,7 +15,12 @@ for i in range(item_quantity):
     quiztion = input(f"Input your question {i+1}: ")
     for options in range(4):
         choice = input(f"Enter choice {chr(65 + options)}: ")
-
+    while True:
+        answer = input("Which letter is the correct answer?: ").upper()
+        if answer in ["A", "B","C","D"]:
+            break
+        else: 
+            print("Answer not int the options! Please input A,B,C or D: ")
 
 
 
