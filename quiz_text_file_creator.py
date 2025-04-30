@@ -47,10 +47,10 @@ with open(filename, "w", encoding="utf-8") as f:
     for i, item in enumerate(quiz_data):
         f.write(f"Question {i+1}: {item['question']}\n")
 
-        f.write(f"  Option A: {item['choices'][0]}\n")  # Print choice A
-        f.write(f"  Option B: {item['choices'][1]}\n")  # Print choice B
-        f.write(f"  Option C: {item['choices'][2]}\n")  # Print choice C
-        f.write(f"  Option D: {item['choices'][3]}\n")  # Print choice D
+        f.write(f"Option A: {item['choices'][0]}\n")  # Print choice A
+        f.write(f"Option B: {item['choices'][1]}\n")  # Print choice B
+        f.write(f"Option C: {item['choices'][2]}\n")  # Print choice C
+        f.write(f"Option D: {item['choices'][3]}\n")  # Print choice D
 
         f.write(f"Answer: {item['answer']}\n\n")
 

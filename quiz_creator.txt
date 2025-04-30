@@ -1,18 +1,11 @@
-Quiz Title: Hello
+Quiz Title: Try
 
-Quiz Item Quantity: 2
+Quiz Item Quantity: 1
 
-Question 1: Hi how are you
-  Option A: good
-  Option B: not good
-  Option C: great
-  Option D: super not good
-Answer: D
-
-Question 2: how about your mom
-  Option A: may asim pa
-  Option B: okay lang
-  Option C: bakit crush mo?
-  Option D: helllo
-Answer: B
+Question 1: bakit
+Option A: oo
+Option B: hindi
+Option C: ano 
+Option D: ediwow
+Answer: C
 
