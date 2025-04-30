@@ -1,32 +1,18 @@
-Quiz Title: & C:/Users/Yczau/.Vscode/Python.Exe "C:/Users/Yczau/Desktop/Quiz Creator/Quiz_Text_File_Creator.Py"
+Quiz Title: Hello
 
-Quiz Item Quantity: 4
+Quiz Item Quantity: 2
 
-Question 1: ycz
-  Option A: dy
-  Option B: dy
-  Option C: dy
-  Option D: aubhrey
+Question 1: Hi how are you
+  Option A: good
+  Option B: not good
+  Option C: great
+  Option D: super not good
 Answer: D
 
-Question 2: hello
-  Option A: hi
-  Option B: hi
-  Option C: hi
-  Option D: kamusta
-Answer: D
-
-Question 3: tite?
-  Option A: pepe
-  Option B: karne
-  Option C: karne
-  Option D: karne
-Answer: A
-
-Question 4: tra
-  Option A: g
-  Option B: g
-  Option C: g
-  Option D: ce
-Answer: D
+Question 2: how about your mom
+  Option A: may asim pa
+  Option B: okay lang
+  Option C: bakit crush mo?
+  Option D: helllo
+Answer: B
 
