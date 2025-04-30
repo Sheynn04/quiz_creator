@@ -1,25 +1,32 @@
-Quiz Title: Quiz #1
+Quiz Title: & C:/Users/Yczau/.Vscode/Python.Exe "C:/Users/Yczau/Desktop/Quiz Creator/Quiz_Text_File_Creator.Py"
 
-Quiz Item Quantity: 3
+Quiz Item Quantity: 4
 
-Question 1: What shape is the earth?
-  Option A: Round
-  Option B: Square
-  Option C: Rectangle
-  Option D: Triangle
-Answer: A
-
-Question 2: How many primary colors are there?
-  Option A: 2
-  Option B: 4
-  Option C: 6
-  Option D: 3
+Question 1: ycz
+  Option A: dy
+  Option B: dy
+  Option C: dy
+  Option D: aubhrey
 Answer: D
 
-Question 3: Is there an ending to the universe
-  Option A: No
-  Option B: Yes
-  Option C: Possibly, we still haventt explored enough
-  Option D: No, theres only heaven and earth
-Answer: C
+Question 2: hello
+  Option A: hi
+  Option B: hi
+  Option C: hi
+  Option D: kamusta
+Answer: D
+
+Question 3: tite?
+  Option A: pepe
+  Option B: karne
+  Option C: karne
+  Option D: karne
+Answer: A
+
+Question 4: tra
+  Option A: g
+  Option B: g
+  Option C: g
+  Option D: ce
+Answer: D
 
