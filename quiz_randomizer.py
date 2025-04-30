@@ -38,7 +38,7 @@ def quiz_randomizer(individual_ques):
     score = 0 
     random.shuffle(individual_ques)
 
-    for ques_num, ques_contents in enumerate(individual_ques):
+    for ques_num, ques_contents in enumerate(individual_ques): # This function allows us the access each question stored in the local library we made.
         print(f"Q{ques_num +1}: {ques_contents['question']}")
         print(f"A. {ques_contents['choices'][0]}")
         print(f"B. {ques_contents['choices'][1]}")
@@ -47,7 +47,7 @@ def quiz_randomizer(individual_ques):
 
         user_answer = input("Choose the letter of your answer: ").upper()
 
-        if user_answer == ques_contents["answer"]:
+        if user_answer == ques_contents["answer"]: # Checks if the answer of the user matches the answer from the file.
             print("Correct!")
             score += 1
 
@@ -56,6 +56,7 @@ def quiz_randomizer(individual_ques):
     
     print(f"Your final score is: {score} out of {len(individual_ques)}")
 
+# 3. Call the definitions we made to start the quiz.
 
 questions_output()
 quiz_randomizer(individual_ques)
