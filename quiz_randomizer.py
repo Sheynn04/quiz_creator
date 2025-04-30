@@ -32,8 +32,10 @@ def questions_output():
             
     return individual_ques
 
+# 2. Define the randizer and how options would display.
+
 def quiz_randomizer(individual_ques):
-    score = 0
+    score = 0 
     random.shuffle(individual_ques)
 
     for ques_num, ques_contents in enumerate(individual_ques):
@@ -54,6 +56,9 @@ def quiz_randomizer(individual_ques):
     
     print(f"Your final score is: {score} out of {len(individual_ques)}")
 
+
+questions_output()
+quiz_randomizer(individual_ques)
 
 
               
